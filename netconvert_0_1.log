@@ -1,0 +1,91 @@
+Warning: Value of key 'maxspeed:type' is not numeric ('EC:urban') in edge '429522233'.
+Warning: Discarding unknown compound 'cycleway.track' in type 'cycleway.track|highway.primary' (first occurence for edge '30603853').
+Warning: Discarding unusable type 'aeroway.runway' (first occurence for edge '32731615').
+Warning: Discarding unknown compound 'cycleway.track' in type 'cycleway.track|highway.residential' (first occurence for edge '39503432').
+Warning: Discarding unknown compound 'cycleway.track' in type 'cycleway.track|highway.secondary' (first occurence for edge '40668082').
+Warning: Discarding unknown compound 'cycleway.shared_lane' in type 'cycleway.shared_lane|highway.residential' (first occurence for edge '42143233').
+Warning: Discarding unknown compound 'cycleway.lane' in type 'cycleway.lane|highway.tertiary' (first occurence for edge '42201282').
+Warning: Discarding unusable type 'railway.abandoned' (first occurence for edge '45326396').
+Warning: Discarding unusable type 'waterway.river' (first occurence for edge '49211216').
+Warning: Discarding unusable type 'waterway.stream' (first occurence for edge '49211221').
+Warning: Discarding unusable type 'waterway.canal' (first occurence for edge '143101204').
+Warning: New value for oneway found: reversible
+Warning: from-edge '86134877' of restriction relation could not be determined
+Warning: Ignoring restriction relation '4790472'.
+Warning: to-edge '86484897' of restriction relation could not be determined
+Warning: Ignoring restriction relation '12149374'.
+Warning: from-edge '48903045' of restriction relation could not be determined
+Warning: Ignoring restriction relation '6960351'.
+Warning: direction of restriction relation could not be determined
+Warning: Ignoring restriction relation '7754156'.
+Warning: direction of restriction relation could not be determined
+Warning: Ignoring restriction relation '7754157'.
+Warning: direction of restriction relation could not be determined
+Warning: direction of restriction relation could not be determined
+Warning: to-edge '542537662' of restriction relation could not be determined
+Warning: direction of restriction relation could not be determined
+Warning: to-edge '403123670' of restriction relation could not be determined
+Warning: from-edge '403123670' of restriction relation could not be determined
+Warning: to-edge '86484897' of restriction relation could not be determined
+Warning: from-edge '48903045' of restriction relation could not be determined
+Warning: to-edge '475313134' of restriction relation could not be determined
+Warning: from-edge '397470328' of restriction relation could not be determined
+Warning: Ignoring restriction relation '4756266' with unknown from-way.
+Warning: Ignoring restriction relation '4756266' with unknown to-way.
+Warning: Removed a road without junctions: -1359631621.
+Warning: Removed a road without junctions: -1428108275.
+Warning: Removed a road without junctions: -172095169#6,-172095169#5,-172095169#4,-172095169#3,-172095169#2.
+Warning: Removed a road without junctions: -402936516#6,-402936516#5,-402936516#4,-402936516#3,-402936516#2,-402936516#1,-402936516#0,-1047224118.
+Warning: Removed a road without junctions: -552440207.
+Warning: Not joining junctions 10996669226,1170923202 (5 incoming edges).
+Warning: Reducing junction cluster 3058414172,499289058,5166436918,5166437831,5166437833,5166437839,5166447016,639836890,8370180733,9183539847 (7 incoming edges).
+Warning: Not joining junctions 413678740,4962835020,616235235,8745313673,8745313674 (5 incoming edges).
+Warning: Not joining junctions 643227154,643227163 (only 1 edge within and no cross-traffic).
+Warning: Not joining junctions 10960661338,577717257 (only 1 edge within and no cross-traffic).
+Warning: Not joining junctions 347645879,8150099048 (only 1 entry node).
+Warning: Reducing junction cluster 4953364788,643353727,766590951 (5 incoming edges).
+Warning: Ambiguity in turnarounds computation at junction '3833191028'.
+Warning: Ambiguity in turnarounds computation at junction '650174941'.
+Warning: Ambiguity in turnarounds computation at junction 'cluster_4101930780_4101930783'.
+Warning: Found sharp turn with radius 6.83 at the start of edge '-378364650#8'.
+Warning: Found sharp turn with radius 8.85 at the end of edge '1432098756'.
+Warning: Found sharp turn with radius 5.68 at the end of edge '1570141263'.
+Warning: Found sharp turn with radius 1.66 at the start of edge '302449883#3'.
+Warning: Found sharp turn with radius 6.83 at the end of edge '378364650#0'.
+Warning: Found angle of 132.30 degrees at edge '405343882#0', segment 9.
+Warning: Found sharp turn with radius 6.82 at the start of edge '42140278#0'.
+Warning: Found angle of 138.45 degrees at edge '542435229#1', segment 0.
+Warning: Found sharp turn with radius 4.39 at the start of edge '542435229#1'.
+Warning: Found sharp turn with radius 7.46 at the end of edge '65141882#1'.
+Warning: Shape for junction '419724634' has distance 20.83 to its given position.
+Warning: Shape for junction '499289139' has distance 29.46 to its given position.
+Warning: Shape for junction '616764444' has distance 24.20 to its given position.
+Warning: Minor green from edge '-89964581#11' to edge '-1553486045' exceeds 19.44m/s. Maybe a left-turn lane is missing.
+Warning: Minor green from edge '-534903536#4' to edge '50993347#0' exceeds 19.44m/s. Maybe a left-turn lane is missing.
+Warning: Minor green from edge '406089757#5' to edge '550945073#0' exceeds 19.44m/s. Maybe a left-turn lane is missing.
+Warning: Minor green from edge '-171421223#1' to edge '534903536#1' exceeds 19.44m/s. Maybe a left-turn lane is missing.
+Warning: Minor green from edge '-50993347#1' to edge '-534903536#0' exceeds 19.44m/s. Maybe a left-turn lane is missing.
+Warning: The traffic light '4717383631' does not control any links; it will not be build.
+Warning: Could not build program '0' for traffic light '4717383631'
+Warning: The traffic light '589816861' does not control any links; it will not be build.
+Warning: Could not build program '0' for traffic light '589816861'
+Warning: The traffic light '611864049' does not control any links; it will not be build.
+Warning: Could not build program '0' for traffic light '611864049'
+Warning: Speed of straight connection '527754319#1_0->527754319#2_0' reduced by 9.71 due to turning radius of 59.36 (length=18.29, angle=32.90).
+Warning: Speed of straight connection '527754319#1_1->527754319#2_1' reduced by 13.58 due to turning radius of 36.68 (length=18.44, angle=44.45).
+Warning: Speed of straight connection '527754319#1_2->527754319#2_2' reduced by 16.52 due to turning radius of 23.07 (length=18.49, angle=62.56).
+Warning: Speed of straight connection '527754319#3_1->48503913_0' reduced by 17.05 due to turning radius of 20.92 (length=5.93, angle=31.88).
+Warning: Speed of straight connection '527754319#3_2->48503913_1' reduced by 15.80 due to turning radius of 26.08 (length=7.45, angle=31.88).
+Warning: Intersecting left turns at junction 'cluster_4101930780_4101930783' from lane '-50552343#6_0' and lane '-379803475#11_0' (increase junction radius to avoid this).
+Warning: Intersecting left turns at junction 'cluster_4101930780_4101930783' from lane '50552343#0_0' and lane '-379803475#11_0' (increase junction radius to avoid this).
+Warning: 13 total messages of type: Discarding unknown compound '%' in type '%' (first occurence for edge '%').
+Warning: 16 total messages of type: Discarding unusable type '%' (first occurence for edge '%').
+Warning: 331 total messages of type: Ignoring restriction relation '%'.
+Warning: 20 total messages of type: Minor green from edge '%' to edge '%' exceeds %m/s. Maybe a left-turn lane is missing.
+Warning: 25 total messages of type: Not joining junctions % (%).
+Warning: 10 total messages of type: Removed a road without junctions: %.
+Warning: 73 total messages of type: Speed of % connection '%' reduced by % due to turning radius of % (length=%, angle=%).
+Warning: 112 total messages of type: direction of restriction relation could not be determined%
+Warning: 157 total messages of type: from-edge '%' of restriction relation could not be determined
+Warning: 62 total messages of type: to-edge '%' of restriction relation could not be determined
+Success.

@@ -1,0 +1,28 @@
+Warning: Ambiguity in turnarounds computation at junction '3833191028'.
+Warning: Ambiguity in turnarounds computation at junction '650174941'.
+Warning: Ambiguity in turnarounds computation at junction 'cluster_4101930780_4101930783'.
+Warning: Found sharp turn with radius 6.60 at the start of edge '-378364650#8'.
+Warning: Found sharp turn with radius 8.93 at the end of edge '1432098756'.
+Warning: Found sharp turn with radius 5.71 at the end of edge '1570141263'.
+Warning: Found sharp turn with radius 1.62 at the start of edge '302449883#3'.
+Warning: Found sharp turn with radius 6.60 at the end of edge '378364650#0'.
+Warning: Found angle of 132.32 degrees at edge '405343882#0', segment 9.
+Warning: Found sharp turn with radius 6.81 at the start of edge '42140278#0'.
+Warning: Found angle of 138.44 degrees at edge '542435229#1', segment 0.
+Warning: Found sharp turn with radius 4.39 at the start of edge '542435229#1'.
+Warning: Found sharp turn with radius 7.66 at the end of edge '65141882#1'.
+Warning: Shape for junction '419724634' has distance 20.50 to its given position.
+Warning: Shape for junction '616764444' has distance 24.28 to its given position.
+Warning: Lane '336161706#0_0' is not connected from any incoming edge at junction 'cluster_1314732741_5164470922_6039383225_6039383226_6145510094_620528430'.
+Warning: Lane '416621432#0_1' is not connected from any incoming edge at junction 'cluster_1314732741_5164470922_6039383225_6039383226_6145510094_620528430'.
+Warning: Edge '532135453#0' is not connected to outgoing edges at junction 'cluster_1314732741_5164470922_6039383225_6039383226_6145510094_620528430'.
+Warning: Lane '894843680_1' is not connected from any incoming edge at junction 'cluster_1005176567_1005176836_5333821126_601481712_766924864'.
+Warning: Speed of straight connection '527754319#1_0->527754319#2_0' reduced by 9.79 due to turning radius of 58.82 (length=18.27, angle=33.05).
+Warning: Speed of straight connection '527754319#1_1->527754319#2_1' reduced by 13.56 due to turning radius of 36.75 (length=18.40, angle=44.33).
+Warning: Speed of straight connection '527754319#1_2->527754319#2_2' reduced by 16.52 due to turning radius of 23.04 (length=18.45, angle=62.51).
+Warning: Speed of straight connection '527754319#3_1->48503913_0' reduced by 17.08 due to turning radius of 20.83 (length=5.93, angle=31.96).
+Warning: Speed of straight connection '527754319#3_2->48503913_1' reduced by 15.83 due to turning radius of 25.98 (length=7.45, angle=31.96).
+Warning: Intersecting left turns at junction 'cluster_4101930780_4101930783' from lane '-50552343#6_0' and lane '-379803475#11_0' (increase junction radius to avoid this).
+Warning: Intersecting left turns at junction 'cluster_4101930780_4101930783' from lane '50552343#0_0' and lane '-379803475#11_0' (increase junction radius to avoid this).
+Warning: 73 total messages of type: Speed of % connection '%' reduced by % due to turning radius of % (length=%, angle=%).
+Success.

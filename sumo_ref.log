@@ -1,0 +1,39 @@
+Loading net-file from 'cuenca_ciudad.net.xml' ... done (149ms).
+Warning: Unused states in tlLogic '1042829841', program '0' in phase 0 after tl-index 2
+Warning: Unused states in tlLogic '346227384', program '0' in phase 0 after tl-index 3
+Warning: Unused states in tlLogic '499289426', program '0' in phase 0 after tl-index 3
+Warning: Unused states in tlLogic 'cluster_1005176567_1005176836_5333821126_601481712_766924864', program '0' in phase 0 after tl-index 6
+Warning: Unused states in tlLogic 'cluster_1314732741_5164470922_6039383225_6039383226_6145510094_620528430', program '0' in phase 0 after tl-index 2
+Warning: Unused states in tlLogic 'cluster_14281928253_14281928254_14281928255_2587016113_3929277548', program '0' in phase 0 after tl-index 5
+Warning: Unused states in tlLogic 'cluster_589655629_964667498', program '0' in phase 0 after tl-index 8
+Loading additional-files from 'vtypes.add.xml' ... done (2ms).
+Loading done.
+Simulation version 1.12.0 started with time: 0.00
+Warning: Vehicle 'car1061'; junction collision with vehicle 'car824', lane=':cluster_577263098_601481736_2_0', gap=-1.00, time=3358.00 stage=move.
+Warning: Vehicle 'car1412'; junction collision with vehicle 'bus119', lane=':473194072_5_0', gap=-1.00, time=4390.00 stage=move.
+Warning: Vehicle 'moto424'; junction collision with vehicle 'bus140', lane=':2472625135_2_0', gap=-1.00, time=5403.00 stage=laneChange.
+Warning: Vehicle 'moto484'; junction collision with vehicle 'bus160', lane=':cluster_346227404_4121798608_5464385377_5464385379_2_0', gap=-1.00, time=6015.00 stage=move.
+Warning: Vehicle 'bus189'; junction collision with vehicle 'moto579', lane=':cluster_13823549544_13823549545_4_0', gap=-1.00, time=6950.00 stage=insertion.
+Warning: Vehicle 'car2337'; junction collision with vehicle 'car2159', lane=':5449508525_2_0', gap=-1.00, time=7231.00 stage=laneChange.
+Warning: Vehicle 'car2159' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=7232.00.
+Warning: Vehicle 'car2980'; junction collision with vehicle 'car3122', lane=':cluster_346227404_4121798608_5464385377_5464385379_1_0', gap=-1.00, time=9606.00 stage=move.
+Warning: Vehicle 'car3399'; junction collision with vehicle 'bus292', lane=':639837049_2_0', gap=-1.00, time=10638.00 stage=move.
+Simulation ended at time: 12600.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 12.18s
+ Real time factor: 1034.82
+ UPS: 199470.597898
+Vehicles: 
+ Inserted: 4800
+ Running: 0
+ Waiting: 0
+Teleports: 0 (Collisions: 8)
+Statistics (avg):
+ RouteLength: 5836.90
+ Speed: 11.47
+ Duration: 505.99
+ WaitingTime: 61.82
+ TimeLoss: 122.11
+ DepartDelay: 0.11
+

@@ -1,0 +1,4 @@
+# Ignorar descargas pesadas de OpenStreetMap
+osm/
+__pycache__/
+*.pyc
